@@ -1,0 +1,13 @@
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\bin\Debug\Simple_Autoclick_CSharp.exe.config
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\bin\Debug\Simple_Autoclick_CSharp.exe
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\bin\Debug\Simple_Autoclick_CSharp.pdb
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\obj\Debug\Simple_Autoclick_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\obj\Debug\Simple_Autoclick_CSharp.AutoClicker.resources
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\obj\Debug\Simple_Autoclick_CSharp.Properties.Resources.resources
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\obj\Debug\Simple_Autoclick_CSharp.csproj.GenerateResource.cache
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\obj\Debug\Simple_Autoclick_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\obj\Debug\Simple_Autoclick_CSharp.csproj.Fody.CopyLocal.cache
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\obj\Debug\Simple_Autoclick_CSharp.csproj.CopyComplete
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\obj\Debug\Simple_Autoclick_CSharp.exe
+C:\Users\Administrador\OneDrive\Escritorio\AutoClick\Simple_Autoclick_CSharp\obj\Debug\Simple_Autoclick_CSharp.pdb
